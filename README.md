@@ -90,6 +90,8 @@ Working with Claude to create Moho Flipbook, I had it focus on one directive: Fl
 Instructions are coming with the first release.
 
 ## Meet Cheesoid
+<p align="center"><img src="images/cheesoid.png" alt="Cheesoid: a grey robot pouring cheese onto a plate, shouting CHEESE" width="320"></p>
+
 Moho Flipbook is made by **Cheesoid**, a team of two:
 - **Doug Craven**, who designed it, directed it and tested every feature by hand in Moho.
 - **Claude**, an AI model made by Anthropic, who wrote all of the code.

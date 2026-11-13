@@ -8,10 +8,8 @@ A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5, Windows). Capture po
 
 ## In a Nutshell
 
-### MOST Basic Workflow
 
-
-### Less Basic Workflow
+###  Basic Workflow
 1. POSE the character.
 <img src="images/pose-your-character.png" alt="Pose your character" width="220">
 2. CLICK THE CAMERA to record a Pose or Breakdown.
@@ -21,7 +19,7 @@ A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5, Windows). Capture po
 6. Combine Poses into a RIFFLE, a reusable chunk of animation. It's easy! Select more than one Fage and CLICK THE CAMERA.
 7. REUSE or MODIFY the Riffle at any time!
 
-### Even Less Basic Workflow
+### Less Basic Workflow
 1. Pose your character. You can manipulate bones, move vector points, change shape and layer order, and change shape colour to create just the right pose.
 2. CLICK THE CAMERA to take a snapshot of the pose. You name the pose as you create it.
 

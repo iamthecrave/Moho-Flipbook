@@ -39,9 +39,9 @@ A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5, Windows). Capture po
    <img src="images/name-a-riffle.png" alt="Three fages selected; naming the new riffle" width="520">
 
 ## The Fage
-<img src="images/fage.png" alt="A fage: an orange pose page named T-POSE, with its stick figure, number and marks" width="96">
-
 **Fage** stands for Flipbook Page: each "page" of the Flipbook, a snapshot of a pose. Fages can be **poses** (saved for later) or **breakdowns** (just for this run). Fages can be grouped together into clumps of action called **riffles** ... more on that below!
+
+<img src="images/fage.png" alt="A fage: an orange pose page named T-POSE, with its stick figure, number and marks" width="96">
 
 You simply and organically change almost anything about your character and CLICK THE CAMERA. That's it. You have a new fage in your Flipbook and a new pose you can reuse or modify.
 
@@ -65,9 +65,9 @@ The Fimeline does not replace the Moho Timeline. It's designed to interact with 
 
 
 ## The Riffle (Holy crud, I saved the best for last!)
-<img src="images/riffle.png" alt="A riffle: three fages wrapped in a purple outline, with the riffle's name EXCITED GREETING on its tab" width="260">
-
 Not only can you save poses and drop them into the Fimeline, you can save **riffles** (little riffs of animation) and drop them into your work at any time. Paste a riffle as a REFERENCE and it updates everywhere when the riffle changes, or as a COPY you can change on its own.
+
+<img src="images/riffle.png" alt="A riffle: three fages wrapped in a purple outline, with the riffle's name EXCITED GREETING on its tab" width="260">
 
 <img src="images/riffle-menu.png" alt="The Riffle dropdown: make a riffle, or drop one in" width="340">
 

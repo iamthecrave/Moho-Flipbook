@@ -1,6 +1,6 @@
 # Moho-Flipbook
 
-> ⚠️ **AI-written code.** Every line of Flipbook's code was written by Claude (AI), then directed and tested by hand by Doug Craven. Please read [AI-NOTICE.md](AI-NOTICE.md), and back up your files before using it on real work.
+> ⚠️ **AI-written code.** This software was created by a human mind, but every line of Flipbook's code was written by Claude (AI), then directed and tested by hand by Doug Craven. Please read [AI-NOTICE.md](AI-NOTICE.md), and back up your files before using it on real work.
 
 A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5, Windows). Capture poses with one click, reuse them anywhere, and build reusable chunks of animation called riffles. It makes your animation more fluid, natural, and fun.
 

@@ -1,25 +1,28 @@
 # Moho-Flipbook
-A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5, Windows). It lets you make your animation more fluid, natural, and fun.   Moho is a powerful professional animation tool for both tweening and frame-by-frame animation. Thanks to the hard work and dedication of the current owners and devs, it's also extremely easy and fun to use. 
+A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5, Windows). It lets you make your animation more fluid, natural, and fun by creating SNAPSHOTS of poses AND full actions and intuitively reuse and update them.   
 
-**Could it be easier and more fun? Abso-LUTE-ly,** thanks to **Moho Flipbook.**
 
 ## In a Nutshell
 
-### The FAB
-FAB stands for Flipbook Tab, the "snapshots" of poses, each "page" of the Flipbook. They can be POSES (saved for later) or BREAKDOWNS (just for this run)
+### Basic Workflow
+1. Pose your character. You can manipulate bones, move vector points, animated shape and layer order, and change shape colour to create just the right pose.
+2. You simply CLICK the camera to take a snapshot of the pose. You name the pose as you create it.
+3. Your pose is stored in a dropdown menu AND in the Moho Actions tab. Using the Flipbook dropdown, you can drop you pose anywhere on the timeline.
+4. When you have enough poses to create an action, you can select a series of Flipbook pages (called Fages or Flipbook Pages) and ...
+5. CLICK the camera to create a RIFFLE, a reusable block of animation. This is saved in a different dropdown and in the Moho Actions tab. 
 
-You move a character into a pose and change almost anything about its appearance and then just **click the camera**! SNAP! It's saved as a FAB on the Flipbook AND as a reusable pose! 
-You can reuse the pose, go back and modify all instances of it at once, or create a new pose from an old one. 
+### The FAGE
+FAGE stands for Flipbook Page, the "snapshots" of poses, each "page" of the Flipbook. They can be POSES (saved for later) or BREAKDOWNS (just for this run). FAGES can be grouped together in clumps of actions called RIFFLES ... more on that below!)
 
-Currently, you can capture states of **BONE LAYERS** (including basic transforms  parenting, bone flipping, and more!, **VECTOR LAYERS** (point positions), LAYER VISIBILITY and ORDER, and ANIMATED SHAPE ORDER, FILLS, LINES (thickness, hide edge and stroke exposure). Phew! 
+You simply and organically change almost anything about your character click CLICK THE CAMERA. That's it. You have a new FAGE in your Flipbook and a new pose you can reuse or modify. 
 
 ### The Fimeline
-You guessed it. FIMELINE stands for Flipbook Timeline. It's designed to let you do all or your Moho Flipbook work in one place, without worrying about its submenu or even the Moho Timeline.
-Speaking of the Moho Timeline, it's still there! The Fimeline doesn't replace it. It's there to interact with it. You can still use the Timeline as before. 
+This is the main work area of the Flipbook. You guessed it. FIMELINE stands for Flipbook Timeline. It's designed to let you do all or your Moho Flipbook work in ONE PLACE, without worrying about its submenu or even the Moho Timeline.
+The FIMELINE does NOT REPLACE the Moho Timeline.  It's designed interact with it and enhance it. 
 
-It has several parts:
-- Your FABS, one after another. You can drag ONE or A SELECTION OF FABS left and right to change timing of all the keys associated with that FAB. It supports INSERTING FABS and DELETING FABS. It dynamically updates poses or creates new distinct poses from old.
-- The MASTER FIMELINE at the bottom is a quick way to manipulate the timing of Fabs above it AND has a hand playhead.
+The FIMELINE has several parts
+- Your FABS, one after another in a Flipbook. You can drag ONE or A SELECTION OF FABS left and right to change timing of all the keys associated with that FAB. It supports INSERTING FABS and DELETING FABS. It dynamically updates poses or creates new distinct poses from old.
+- Below that is the MASTER FIMELINE at the bottom is a quick way to manipulate the timing of Fabs above it AND has a hand playhead.
 - The INFO BAR (at the top) give the most important information: FRAME #, which kind of keys are stored in the selected FAB (ie. bone, vector, layer order, etc) and the LENGTH of any PAUSE you added IN SECONDS.
 - The TOOLS (right side): Insert a Pause, increase or decrease that Hold, switch between Pose (P) and and Breakdown (B) snapshot, and a navigation bar. All tools are duplicated on the submenu at the top of the screen.
 

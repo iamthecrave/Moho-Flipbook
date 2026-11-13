@@ -22,14 +22,19 @@ Instructions are coming with the first release.
 
 ## In a Nutshell
 
-### Most Basic Workflow
+### MOST Basic Workflow
+1. Pose.
+2. Click!
+3. Reuse.
+
+### Less Basic Workflow
 1. POSEthe character.
 2. CLICK THE CAMERA to record a Pose or Breakdown.
 3. REUSE or MODIFY the Pose at any time!
 4. Combine Poses into a RIFFLE, a reusable chunk of animation. It's easy! Select more than one Fage and CLICK THE CAMERA.
 5. REUSE or MODIFY the Riffle at any time!
 
-### Basic Workflow
+### Even Less Basic Workflow
 1. Pose your character. You can manipulate bones, move vector points, change shape and layer order, and change shape colour to create just the right pose.
 2. CLICK THE CAMERA to take a snapshot of the pose. You name the pose as you create it.
 

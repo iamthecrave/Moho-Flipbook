@@ -56,11 +56,6 @@ The Fimeline does not replace the Moho Timeline. It's designed to interact with 
 - The **info bar** (at the top) gives the most important information: the frame number, which kinds of keys are stored in the selected fage (i.e. bone, vector, layer order, etc.) and how long the current fage is held, in seconds. Rest the pointer on one of its little symbols to see which layers it stands for.
 - The **tools** (right side): insert a pause, increase or decrease the hold, switch between Pose (P) and Breakdown (B) snapshots, JUMP, delete a fage (the red X), and a navigation bar. All tools are duplicated on the submenu at the top of the screen.
 
-### In action
-| Drag fages to retime | What a fage changes |
-|:---:|:---:|
-| <img src="images/drag-to-retime.png" alt="Dragging a fage changes the timing of its keys in the Moho timeline" width="400"> | <img src="images/info-bar.png" alt="The info bar: frame, what this fage changes, and its name" width="420"> |
-| The keys in the Moho timeline move with it. | Rest the pointer on a symbol to list its layers. |
 
 ## The Riffle (Holy crud, I saved the best for last!)
 Not only can you save poses and drop them into the Fimeline, you can save **riffles** (little riffs of animation) and drop them into your work at any time. Paste a riffle as a REFERENCE and it updates everywhere when the riffle changes, or as a COPY you can change on its own.

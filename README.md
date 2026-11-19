@@ -75,7 +75,11 @@ Working with Claude to create Moho Flipbook, I had it focus on one directive: Fl
 - A character rigged with a bone layer.
 
 ## Installing
-Instructions are coming with the first release.
+Unzip the download, then either:
+- In Moho, choose **Scripts > Install Script...**, click **Select A Script Folder** and pick the unzipped `chz_moho_flipbook` folder, or
+- Copy its `tool` and `ScriptResources` folders into the `scripts` folder of your Custom Content Folder (**File > Open Custom Content Folder**).
+
+Restart Moho. Flipbook appears in the Tools panel.
 
 ## Meet Cheesoid
 <p align="center"><img src="images/cheesoid.png" alt="Cheesoid: a grey robot pouring cheese onto a plate, shouting CHEESE" width="320"></p>

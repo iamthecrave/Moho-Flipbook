@@ -6,6 +6,10 @@ A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5.1, Windows). Capture 
 
 <img src="images/overview-v2.png" alt="Moho with Flipbook: the Fimeline of Fages across the bottom of the canvas, Moho timeline below">
 
+**Watch it in action:**
+
+<a href="https://www.youtube.com/watch?v=Ukc1vq2Lcig"><img src="https://img.youtube.com/vi/Ukc1vq2Lcig/hqdefault.jpg" alt="Moho Flipbook video on YouTube (click to play)" width="560"></a>
+
 ## In a Nutshell
 https://www.youtube.com/watch?v=Ukc1vq2Lcig
 

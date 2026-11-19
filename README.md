@@ -58,7 +58,7 @@ The fimeline allows you to:
 
 
 ## The Riffle (Holy crud, I saved the best for last!)
-Riffling is flipping quickly through pages to see an animation. A riffle in Flipbook is a set of 
+Riffling is flipping quickly through pages to see an animation. A riffle in Flipbook is a set of flipbook pages saved as one reusable action. This leverages the power of Moho Actions and makes it easy to reuse short sequences. 
 
 <img src="images/riffle.png" alt="A Riffle: three Fages wrapped in a purple outline, with the Riffle's name EXCITED GREETING on its tab" width="260">
 

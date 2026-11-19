@@ -4,14 +4,14 @@
 
 A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5, Windows). Capture almost ANY CHANGE (bones, point, shapes, layer order) into self-contained poses with one click, reuse them anywhere. Build reusable chunks of action called "Riffles." 
 
-<img src="images/overview.png" alt="Moho with Flipbook: the Fimeline of Fages across the bottom of the canvas, Moho timeline below">
+<img src="images/overview-v2.png" alt="Moho with Flipbook: the Fimeline of Fages across the bottom of the canvas, Moho timeline below">
 
 ## In a Nutshell
 
 ###  Basic Workflow
 1. POSE the character.
 
-   <img src="images/pose-your-character.png" alt="Pose your character" width="220">
+   <img src="images/pose-your-character-v2.png" alt="Pose your character" width="220">
 
 2. CLICK THE CAMERA to record a Pose or Breakdown.
 
@@ -19,7 +19,7 @@ A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5, Windows). Capture al
 
 3. REUSE or MODIFY the Pose at any time!
 
-   <img src="images/pose-menu.png" alt="The Pose dropdown: saved poses to drop in, and Forget to remove one" width="229">
+   <img src="images/pose-menu-v2.png" alt="The Pose dropdown: saved poses to drop in, and Forget to remove one" width="229">
 
 4. Combine Poses into a RIFFLE, a reusable chunk of animation. It's easy! Select more than one Fage and CLICK THE CAMERA.
 
@@ -34,14 +34,14 @@ A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5, Windows). Capture al
 ## The Fage
 **Fage** stands for Flipbook Page: each "page" of the Flipbook, a snapshot of a pose. Fages can be **poses** (saved for later) or **breakdowns** (just for this run). You can select multiple fages, move them in the timeline, add a pause, insert a fage between two keyframes. Ripple Editing happens magically! The fage windows has tons of info! 
 
-<img src="images/fage.png" alt="A Fage: an orange pose page named NEUTRAL, with its picture, number and frame" width="96">
+<img src="images/fage-v2.png" alt="A Fage: an orange pose page named NEUTRAL, with its picture, number and frame" width="96">
 
 
 
 ## The Fimeline
 This is the main work area of the Flipbook. You guessed it: **Fimeline** stands for Flipbook Timeline. The Fimeline interacts with the Moho timeline. Select a fage, for example, and you select its keys.
 
-<img src="images/fimeline-labelled.png" alt="The Fimeline, labelled: info bar, Riffle, Fages, tools, delete, camera, master Fimeline, and the Moho timeline below">
+<img src="images/fimeline-labelled-v2.png" alt="The Fimeline, labelled: info bar, Riffle, Fages, tools, delete, camera, master Fimeline, and the Moho timeline below">
 
 The fimeline allows you to:
 1. create and delete fages and riffles, adjust timing by sliding fages, add pauses, and much more!
@@ -51,7 +51,7 @@ The fimeline allows you to:
 
 3. See important information about the selected fage(s).
 
-   <img src="images/info-bar.png" alt="The info bar: FRAME 91, the Fage name EHHHHH?!, 2 SELECTED, and a note that the Riffle WHAT?! was saved">
+   <img src="images/info-bar-v2.png" alt="The info bar: FRAME 91, the Fage name EHHHHH?!, 2 SELECTED, and a note that the Riffle WHAT?! was saved">
 
 
 

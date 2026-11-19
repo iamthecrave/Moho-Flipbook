@@ -2,7 +2,7 @@
 
 > ⚠️ **AI-written code.** This program was created by CHEESOID, a working partnership between a human animator and programmer, Doug Craven, and an unthinking soulless machine...me, Claude Opus 5.5. Ideas were conceived and evaluated by Doug. **Every line of Flipbook's code was written by Claude (AI)**, then directed and tested by hand by Doug Craven. Please read [AI-NOTICE.md](AI-NOTICE.md), and back up your files before using it on real work.
 
-A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5, Windows). Capture almost ANY CHANGE (bones, point, shapes, layer order) into self-contained poses with one click, reuse them anywhere. Build reusable chunks of action called "Riffles." 
+A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5.1, Windows). Capture almost ANY CHANGE (bones, point, shapes, layer order) into self-contained poses with one click, reuse them anywhere. Build reusable chunks of action called "Riffles." 
 
 <img src="images/overview-v2.png" alt="Moho with Flipbook: the Fimeline of Fages across the bottom of the canvas, Moho timeline below">
 

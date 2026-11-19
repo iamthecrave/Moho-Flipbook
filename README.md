@@ -8,7 +8,8 @@ A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5.1, Windows). Capture 
 
 **Watch it in action:**
 
-<a href="https://www.youtube.com/watch?v=Ukc1vq2Lcig"><img src="https://img.youtube.com/vi/Ukc1vq2Lcig/hqdefault.jpg" alt="Moho Flipbook video on YouTube (click to play)" width="560"></a>
+https://github.com/user-attachments/assets/7d44c127-8715-4acf-a524-b9474eb4259d
+
 
 ## In a Nutshell
 

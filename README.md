@@ -19,42 +19,48 @@ A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5, Windows). Capture al
 
 3. REUSE or MODIFY the Pose at any time!
 
-   <img src="images/pose-menu.png" alt="The Pose dropdown" width="240">
+   <img src="images/pose-menu.png" alt="The Pose dropdown: saved poses to drop in, and Forget to remove one" width="229">
 
 4. Combine Poses into a RIFFLE, a reusable chunk of animation. It's easy! Select more than one Fage and CLICK THE CAMERA.
 
+   <img src="images/riffle-fimeline.png" alt="Two copies of the DANCE Riffle on the Fimeline, each wrapping four Fages in a purple outline" width="760">
+
 5. REUSE or MODIFY the Riffle at any time!
+
+   <img src="images/drop-riffle.png" alt="The Riffle dropdown: make a Riffle from selected Fages, or drop in a saved one" width="270">
 
 
 
 ## The Fage
 **Fage** stands for Flipbook Page: each "page" of the Flipbook, a snapshot of a pose. Fages can be **poses** (saved for later) or **breakdowns** (just for this run). You can select multiple fages, move them in the timeline, add a pause, insert a fage between two keyframes. Ripple Editing happens magically! The fage windows has tons of info! 
 
-<img src="images/fage.png" alt="A Fage: an orange pose page named T-POSE, with its stick figure, number and marks" width="96">
+<img src="images/fage.png" alt="A Fage: an orange pose page named NEUTRAL, with its picture, number and frame" width="96">
 
 
 
 ## The Fimeline
 This is the main work area of the Flipbook. You guessed it: **Fimeline** stands for Flipbook Timeline. The Fimeline interacts with the Moho timeline. Select a fage, for example, and you select its keys.
-(insert fimeline-labelled)
+
+<img src="images/fimeline-labelled.png" alt="The Fimeline, labelled: info bar, Riffle, Fages, tools, delete, camera, master Fimeline, and the Moho timeline below">
+
 The fimeline allows you to:
 1. create and delete fages and riffles, adjust timing by sliding fages, add pauses, and much more!
 2. use the Timing Bar to make quick adjustments to timing.
-(Claude insert time bar)
+
+   <img src="images/timing-bar.png" alt="The Timing Bar: Riffles and Fages along the whole scene, with grips and the playhead">
+
 3. See important information about the selected fage(s).
-Insert Info Bar 
+
+   <img src="images/info-bar.png" alt="The info bar: FRAME 91, the Fage name EHHHHH?!, 2 SELECTED, and a note that the Riffle WHAT?! was saved">
 
 
-
-
-<img src="images/fimeline-labelled.png" alt="The Fimeline, labelled: info bar, Riffle, Fages, tools, delete, camera, master Fimeline, and the Moho timeline below">
 
 
 
 ## The Riffle (Holy crud, I saved the best for last!)
 Riffling is flipping quickly through pages to see an animation. A riffle in Flipbook is a set of 
 
-(claude insert riffle picture}
+<img src="images/riffle.png" alt="A Riffle: three Fages wrapped in a purple outline, with the Riffle's name EXCITED GREETING on its tab" width="260">
 
 
 ## Many More Cool Things

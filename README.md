@@ -7,6 +7,8 @@ A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5.1, Windows). Capture 
 <img src="images/overview-v2.png" alt="Moho with Flipbook: the Fimeline of Fages across the bottom of the canvas, Moho timeline below">
 
 ## In a Nutshell
+https://www.youtube.com/watch?v=Ukc1vq2Lcig
+
 
 ###  Basic Workflow
 1. POSE the character.

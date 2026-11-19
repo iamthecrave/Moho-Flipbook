@@ -4,6 +4,8 @@
 
 A Flipbook add-on for Moho Pro 14 (tested on Moho Pro 14.5.1, Windows). Capture almost ANY CHANGE (bones, point, shapes, layer order) into self-contained poses with one click, reuse them anywhere. Build reusable chunks of action called "Riffles." 
 
+**Download:** [chz_moho_flipbook_1.0.0-beta.1.zip](https://github.com/iamthecrave/Moho-Flipbook/releases/download/v1.0.0-beta.1/chz_moho_flipbook_1.0.0-beta.1.zip) (beta 1, "Astro Boy") · [release notes](https://github.com/iamthecrave/Moho-Flipbook/releases/tag/v1.0.0-beta.1) · [how to install](#installing)
+
 <img src="images/overview-v2.png" alt="Moho with Flipbook: the Fimeline of Fages across the bottom of the canvas, Moho timeline below">
 
 **Watch it in action:**
@@ -81,7 +83,7 @@ Working with Claude to create Moho Flipbook, I had it focus on one directive: Fl
 - A character rigged with a bone layer.
 
 ## Installing
-Unzip the download, then either:
+Download [chz_moho_flipbook_1.0.0-beta.1.zip](https://github.com/iamthecrave/Moho-Flipbook/releases/download/v1.0.0-beta.1/chz_moho_flipbook_1.0.0-beta.1.zip), unzip it, then either:
 - In Moho, choose **Scripts > Install Script...**, click **Select A Script Folder** and pick the unzipped `chz_moho_flipbook` folder, or
 - Copy its `tool` and `ScriptResources` folders into the `scripts` folder of your Custom Content Folder (**File > Open Custom Content Folder**).
 

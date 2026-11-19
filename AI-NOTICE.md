@@ -19,4 +19,4 @@ This is sometimes called *vibe coding*. Doug designed the tool, decided what it 
 
 ## Licence
 
-0BSD (Zero-Clause BSD): use it, change it or share it for any purpose, with no conditions. See [LICENSE](LICENSE).
+PolyForm Noncommercial 1.0.0: use it, change it or share it for any noncommercial purpose. Selling it, or using it in a paid product or service, is not allowed. See [LICENSE](LICENSE).

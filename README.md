@@ -98,8 +98,8 @@ Moho Flipbook is made by **Cheesoid**, a team of two:
 
 Doug brought the animator's eye and the human brain and the high standards.  Claude brought the Lua.
 
-## Upcoming Releases
-1. Moho Launcher
+## Other Releases 
+1. [Moho Launcher](https://github.com/iamthecrave/Moho-Power-Launcher)
 2. Layer Sequencer
 3. Face Rigger, which will blend Make Eyes, Make Mouth and Make Head
 
